@@ -1,0 +1,14 @@
+console.log("******************RESULT****************");
+let name ="𝔸𝕤𝕙𝕚𝕤𝕙 𝕜𝕦𝕞𝕒𝕣";
+let school ="ᴠɪᴅʏᴀ ɴɪᴋᴇᴛᴀɴ";
+let grade ="🇧";
+let section ="🇨​​​​​";
+let roll_no = "𝟛𝟚";
+let marks = "⁷⁸⸴ ⁵⁵⸴ ⁸²";
+console.log("Name-",name);
+console.log("School-",school);
+console.log("Grade-",grade);
+console.log("Section-",section);
+console.log("Roll_no-",roll_no);
+console.log("************Marks Obtained*************");
+console.log("Phy,Che,math--",marks);
